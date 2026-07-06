@@ -1,0 +1,15 @@
+kpi,value
+total_cost,41763.42
+on_time_delivery_pct,60.0
+n_late_orders,10
+avg_tardiness_days_when_late,1.7
+avg_machine_utilization_pct,20.92
+total_setup_time_hours,976.49
+total_setup_cost,20866.5
+avg_inventory_on_hand,30.54
+makespan_hours,168.0
+total_overtime_hours,0.0
+solver_status,ok
+solver_termination,maxTimeLimit
+solve_time_seconds,92.12
+mip_gap_target,0.01

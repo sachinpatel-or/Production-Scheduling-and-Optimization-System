@@ -1,0 +1,11 @@
+product_id,name,family_id,routing,unit_cost
+P01,Product 1,FAM1,"Cutting,Assembly,Packing",2.4
+P02,Product 2,FAM2,"Cutting,Assembly,Packing",5.57
+P03,Product 3,FAM3,"Cutting,Assembly,Packing",12.83
+P04,Product 4,FAM4,"Cutting,Assembly,Packing",3.39
+P05,Product 5,FAM1,"Cutting,Assembly,Packing",2.48
+P06,Product 6,FAM2,"Cutting,Packing",10.09
+P07,Product 7,FAM3,"Cutting,Packing",5.18
+P08,Product 8,FAM4,"Cutting,Assembly,Packing",10.72
+P09,Product 9,FAM1,"Cutting,Packing",11.43
+P10,Product 10,FAM2,"Cutting,Assembly,Packing",2.1

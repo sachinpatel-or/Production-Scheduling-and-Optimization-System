@@ -1,0 +1,11 @@
+key,value
+horizon_days,7.0
+shifts_per_day,3.0
+shift_duration_hours,8.0
+default_holding_cost_per_unit_day,0.5
+default_late_penalty_per_unit_day,5.0
+default_overtime_cost_per_hour,45.0
+default_startup_cost,75.0
+default_energy_cost_per_hour,8.0
+min_batch_size,15.0
+max_batch_size,150.0

@@ -1,0 +1,9 @@
+operator_id,name,skills,shift_type
+OP01,Operator 1,"M01,M02","Morning,Night"
+OP02,Operator 2,"M02,M03","Afternoon,Morning"
+OP03,Operator 3,"M01,M03,M04,M05","Morning,Night"
+OP04,Operator 4,"M04,M05","Morning,Night"
+OP05,Operator 5,"M01,M02,M05","Afternoon,Night"
+OP06,Operator 6,"M01,M02,M03","Morning,Night"
+OP07,Operator 7,"M02,M03","Afternoon,Morning"
+OP08,Operator 8,"M03,M04","Afternoon,Morning"

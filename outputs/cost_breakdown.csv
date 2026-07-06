@@ -1,0 +1,9 @@
+component,value,pct_of_total
+production_cost,9763.0,23.38
+setup_cost,20792.4,49.79
+inventory_cost,1069.0,2.56
+tardiness_cost,6695.18,16.03
+startup_cost,1874.74,4.49
+overtime_cost,0.0,0.0
+energy_cost,1569.09,3.76
+TOTAL,41763.42,100.0
